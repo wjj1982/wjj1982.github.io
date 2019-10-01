@@ -1,7 +1,7 @@
 # Basic
 title: wjj1982
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到wjj的个人站~
 # 头像里面的标题
 avatarTitle: wjj1982
 # 头像里面的描述
@@ -10,25 +10,25 @@ url: "https://wjj1982.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
+    weibo/qq/微信: 155179213 
+    github: wjj1982
+    # qq: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 余生还长你别慌
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 155179213@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
+#baidu:
+    #id: xxxx  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
