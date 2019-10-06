@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "mobaxerm日常操作：日志记录以及宏脚本"
+title: "mobaxterm日常操作：日志记录以及宏脚本"
 date: 2019-10-06 
-description: "mobaxerm日常操作：日志记录以及宏脚本"
+description: "mobaxterm日常操作：日志记录以及宏脚本"
 tag: 常用工具 
 ---
 
